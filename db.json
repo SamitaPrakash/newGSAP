@@ -1,0 +1,49 @@
+{
+    "jwst": [
+      {
+        "id": 1,
+        "imageUrl": "https://samitaprakash.github.io/newGSAP/text/h-1.png",
+        "title": "h-1"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://samitaprakash.github.io/newGSAP/text/e-1.png",
+        "title": "e-1"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://samitaprakash.github.io/newGSAP/text/y.png",
+        "title": "y"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://samitaprakash.github.io/newGSAP/text/t.png",
+        "title": "t"
+      },
+      {
+        "id": 5,
+        "imageUrl":"https://samitaprakash.github.io/newGSAP/text/h-2.png",
+        "title": "h-2"
+        },
+      {
+        "id": 6,
+        "imageUrl":"https://samitaprakash.github.io/newGSAP/text/e-2.png",
+        "title": "e-2"
+        },
+      {
+        "id": 7,
+        "imageUrl":"https://samitaprakash.github.io/newGSAP/text/r.png",
+        "title": "r"
+        },
+        {
+            "id": 8,
+            "imageUrl":"https://samitaprakash.github.io/newGSAP/text/e-3.png",
+            "title": "e-3"
+            },
+      {
+        "id": 9,
+        "imageUrl":"https://samitaprakash.github.io/newGSAP/text/!.png",
+        "title": "!"
+        }
+    ]
+  }
